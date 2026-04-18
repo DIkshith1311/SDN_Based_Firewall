@@ -105,8 +105,7 @@ When a packet arrives at switch `s1`, it triggers a `packet_in` event at the con
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone <your-repo-link>
-cd <repo-folder>
+git clone https://github.com/DIkshith1311/SDN_Based_Firewall.git
 ```
 
 ### Step 2 — Copy Firewall Module to POX
